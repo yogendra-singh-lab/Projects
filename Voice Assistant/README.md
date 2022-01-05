@@ -54,13 +54,7 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- CONTACT -->
-## Contact
-LinkedIn
-[Jaspreet Singh](https://www.linkedin.com/in/jaspreetsidhu13/)
 
-More Projects
-GitHub: [JaspreetSidhu3](https://github.com/jaspreetsidhu3)
 
 
 
